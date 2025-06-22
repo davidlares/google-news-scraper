@@ -10,8 +10,7 @@ DavidScraper es un script en Python2 para sustraer información del Feed de noti
 - Requests: cliente HTTP
 
 ## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+[David E Lares S](https://davidlares.com)
 
 ## Licencia
-
-- [MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
